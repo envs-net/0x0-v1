@@ -543,8 +543,7 @@ please allow up to 24 hours for a response.
 </div>
       </div>
 
-      <footer><pre class="clean">a <a href="https://envs.net/">envs.net</a> service&nbsp;&#124;&nbsp;<a href="https://envs.net/impressum/">impressum</a>&nbsp;&#124;&nbsp;contact: <a href="mailto:hostmaster@envs.net" target="_blank"><i clas
-s="fa fa-envelope-o fa-fw" aria-hidden="true"></i></a>&nbsp;&bull;&nbsp;<a href="https://envs.net/chat/matrix/"><i class="fa fa-matrix-org fa-fw" aria-hidden="true"></i></a></pre></footer>
+      <footer><pre class="clean">a <a href="https://envs.net/">envs.net</a> service&nbsp;&#124;&nbsp;<a href="https://envs.net/impressum/">impressum</a>&nbsp;&#124;&nbsp;contact: <a href="mailto:hostmaster@envs.net" target="_blank"><i class="fa fa-envelope-o fa-fw" aria-hidden="true"></i></a>&nbsp;&bull;&nbsp;<a href="https://envs.net/chat/matrix/"><i class="fa fa-matrix-org fa-fw" aria-hidden="true"></i></a></pre></footer>
 
     </div>
 
