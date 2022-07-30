@@ -469,8 +469,8 @@ curl is available on most platforms, including Windows, Mac OS X and Linux.
 
 if you run a server and like this site, clone it! centralization is bad.
 <small><a href="https://github.com/envs-net/0x0" target="_blank">https://github.com/envs-net/0x0</a></small>
-you can also support it financially via liberapay.
-<a href="https://en.liberapay.com/envs.net/donate" target="_blank" style="border-bottom-color: transparent;"><img src="https://img.shields.io/liberapay/receives/envs.net.svg?logo=liberapay" alt="img_shield_receives_via_liberapay"></a>
+you can also support it solidarity via liberapay.
+<a href="https://en.liberapay.com/envs.net" target="_blank" style="border-bottom-color: transparent;"><img src="https://img.shields.io/liberapay/receives/envs.net.svg?logo=liberapay" alt="img_shield_receives_via_liberapay"></a>
 </pre>
 <br />
 
@@ -543,7 +543,10 @@ please allow up to 24 hours for a response.
 </div>
       </div>
 
-      <footer><pre class="clean">a <a href="https://envs.net/">envs.net</a> service&nbsp;&#124;&nbsp;<a href="https://envs.net/impressum/">impressum</a>&nbsp;&#124;&nbsp;contact: <a href="mailto:hostmaster@envs.net" target="_blank"><i class="fa fa-envelope-o fa-fw" aria-hidden="true"></i></a>&nbsp;&bull;&nbsp;<a href="https://envs.net/chat/matrix/"><i class="fa fa-matrix-org fa-fw" aria-hidden="true"></i></a></pre></footer>
+      <footer>
+        <pre class="clean">a <a href="https://envs.net/">envs.net</a> service&nbsp;&#124;&nbsp;<a href="https://envs.net/impressum/">impressum</a>&nbsp;&#124;&nbsp;contact: <a href="mailto:hostmaster@envs.net" target="_blank"><i class="fa fa-envelope-o fa-fw" aria-hidden="true"></i></a>&nbsp;&bull;&nbsp;<a href="https://envs.net/chat/matrix/"><i class="fa fa-matrix-org fa-fw" aria-hidden="true"></i></a></pre>
+        <pre class="clean"><small>BTC: <code>bc1qxtljvxjjcrqt3kn8kl3pnwazny7k34kjxsyy7s</code> | ETH: <code>0xF481f6a7d9b22B3BE5d40A54C833A1C6eEdcdf69</code></small></pre>
+      </footer>
 
     </div>
 
