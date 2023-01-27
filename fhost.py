@@ -466,14 +466,20 @@ envs.sh is NOT a platform for:
 <pre>
 there is only one thing you need to use this service - curl.
 curl is available on most platforms, including Windows, Mac OS X and Linux.
-
-if you run a server and like this site, clone it! centralization is bad.
-<small><a href="https://github.com/envs-net/0x0" target="_blank">https://github.com/envs-net/0x0</a></small>
-you can also support it solidarity via
-<a href="https://en.liberapay.com/envs.net" target="_blank"><i class="fa fa-liberapay" aria-hidden="true"></i> liberapay</a>
-<a href="https://www.patreon.com/envs" target="_blank"><i class="fa fa-patreon" aria-hidden="true"></i> patreon</a>.
 </pre>
 <br />
+
+<div class="block">
+<pre>
+if you run a server and like this site, clone it! centralization is bad.
+<small><a href="https://github.com/envs-net/0x0" target="_blank">https://github.com/envs-net/0x0</a></small>
+
+you can also support it solidarity via
+<a href="https://en.liberapay.com/envs.net" target="_blank"><i class="fa fa-liberapay" aria-hidden="true"></i> liberapay</a>
+<a href="https://www.patreon.com/envs" target="_blank"><i class="fa fa-patreon" aria-hidden="true"></i> patreon</a>
+</pre>
+<p></p>
+</div>
 
 <h2>ALIAS</h2>
 <pre>
@@ -488,10 +494,12 @@ now you can use:
 <code>0file "yourfile.png"
 &#35; or
 echo "text here" | 0pb</code>
-
-<em>if you want a nice wrapper, try <a href="https://git.envs.net/envs/pb">~tomasino's pb</a></em>
 </pre>
 <br />
+
+<div class="block">
+<pre><em>if you want a nice wrapper, try <a href="https://git.envs.net/envs/pb">~tomasino's pb</a></em></pre>
+</div>
 
 <h2>FILE RETENTION PERIOD</h2>
 <pre>
@@ -521,13 +529,15 @@ retention = min_age + (-max_age + min_age) * pow((file_size / max_size - 1), 3)
 </pre>
 <br />
 
-<h2>ABUSE</h2>
+<div class="block">
 <pre>
+<h2>ABUSE</h2>
 if you would like to request permanent deletion, please
 send an email to <a href="mailto:hostmaster@envs.net?subject=Abuse%200x0%20-%20envs.sh" target="_blank">hostmaster&#64;envs.net</a>.
 
 please allow up to 24 hours for a response.
 </pre>
+</div>
       </div>
 
 <!-- UPLOAD -->
